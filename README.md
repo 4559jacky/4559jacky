@@ -15,3 +15,15 @@
 ## 자격증
 * 정보처리산업기사
 * 리눅스 마스터 2급
+
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://velog.io/@wodlr1001">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:4559jacky@gmail.com">
+    <img
+      src="https://img.shields.io/badge/4559jacky@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
