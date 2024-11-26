@@ -1,7 +1,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F4559jacky&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 <p align="center">
-<img src='https://github.com/user-attachments/assets/f15b0358-968d-445b-9795-63497dcc29f5'>
+<img src='https://github.com/user-attachments/assets/11468f24-429d-447b-b61f-acc1e9397040'>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=안녕하세요%20백엔드%20개발자%20정재익입니다.%20🙋‍♀️&animation=twinkling&fontSize=30" />
